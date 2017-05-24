@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ig870\.android\build-cache\d94636cb95462b52e978ece74e7791f20d647aa2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\ig870\Desktop\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\classes_3861319ebaf643aea4a32c50b0f6578f81e3cab2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ig870\.android\build-cache\b4d0d05a1068620d5178216f610756d21bf791d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a5380ddd58f4f8946ddade4c64dd77de4a836d5">
+        <dex dex="C:\Users\ig870\Desktop\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\classes_96d1c4d9aae13e510426891493eb4a288e5e0dd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ig870\.android\build-cache\b5012d6c8304d272fa8891f902c1da21754eaa52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\ig870\Desktop\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\classes_21e9a27467661500a629d9ab3ccc9ba18d9095ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ig870\.android\build-cache\d94636cb95462b52e978ece74e7791f20d647aa2\output\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\ig870\Desktop\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_df98a24ccb6a5a8eed8f6ce95406b671a9904e8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ig870\.android\build-cache\517c4878186bc7efd6a2394f12fe7dbba25182ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\ig870\Desktop\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\classes_d26fcd9381d7b287d637ee2d466ddf839ed44769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ig870\.android\build-cache\dd4bc74b6c1f51cbc29f84a112048bd33cf5e779\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\ig870\Desktop\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\classes_342fc7dfd0ea6c56b93f8ad1597f37672ac2a9dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ig870\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\ig870\Desktop\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_17054bb25002a95d8aa7fc3bb6ac1121493a947e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ig870\.android\build-cache\15edb4e5f867c7b08b67c027bb91737dd2861ee3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\ig870\Desktop\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\classes_9ac683f54c9ee55d32b85fbebc22d7b24bed2d90.jar" />
+    </item>
+
+</items>
