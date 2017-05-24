@@ -8,7 +8,7 @@ Pre-requisites
 Screenshots
 -------------
 
-<img src="screenshots/title.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Title.png" height="400" alt="Screenshot"/>
 
 Getting Started
 ---------------
